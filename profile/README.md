@@ -1,4 +1,4 @@
-![dotenv.org](https://dotenv.org/banner.png)
+[![dotenv.org](https://dotenv.org/banner.png)](https://dotenv.org)
 
 *sync .env files*—from the creator of `dotenv`.
 
