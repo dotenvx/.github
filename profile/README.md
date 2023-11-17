@@ -1,5 +1,5 @@
 ![dotenv.org](https://dotenv.org/banner.png)
 
-*sync .env files*—from the creator of `brew`.
+*sync .env files*—from the creator of `dotenv`.
 
 * [`dotenv-vault`](https://github.com/dotenv-org/dotenv-vault) ⎆ sync .env files
