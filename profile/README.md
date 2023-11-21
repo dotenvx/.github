@@ -2,4 +2,4 @@
 
 > *making dotenv better*—from the creator of `dotenv`.
 >
-> * [`@dotenv/dotenv`](https://github.com/dotenvx/dotenv) ⎆ a better dotenv
+> * [`@dotenvx/dotenvx`](https://github.com/dotenvx/dotenvx) ⎆ a better dotenv
